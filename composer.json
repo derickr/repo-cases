@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "dg/bypass-finals": "^1.4"
+    }
+}
